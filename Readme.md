@@ -1,5 +1,5 @@
 ## Project's Plan
-Of the Developers, By the Developers, For the Developers
+Of the Devops, By the Devops, For the Devops
 
 ## Description
 I want to use the best possible stack, and mimic the real world enterprise project, so this project will be k8s friendly which can be deployed on EKS/VPN anyday.
